@@ -1,5 +1,5 @@
 # controle-de-estoque-
-Projeto feito com tkinter e database files. Bem simples a basico apenas para treinar python utilizando a biblioteca tkinter. 
+Projeto feito com tkinter e database files. Bem simples e basico apenas para treinar python utilizando a biblioteca tkinter. 
 
 
 Assim fica quando executamos o código e também quero fazer um sistema de login para acessar o sistema.
